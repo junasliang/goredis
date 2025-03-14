@@ -1,5 +1,5 @@
 run: build
-	@./GoRedis
+	@./goredis
 
 build:
-	@go build -o /GoRedis .
+	@go build -o goredis
